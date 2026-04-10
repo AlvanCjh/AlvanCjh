@@ -38,11 +38,11 @@ I am extremely passionate about tackling complex challenges with unconventional,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Alvan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvancjh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Alvan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvancjh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
